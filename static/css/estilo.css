@@ -1,0 +1,16 @@
+/* estilo.css */
+
+body {
+    background-color: #fff8e6; /* Fondo blanco crema */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ff0000; /* Letras rojas */
+    font-size: 2em; /* Tamaño de letra grande */
+}
+
+p {
+    font-size: 1.2em; /* Tamaño de letra más grande que el predeterminado */
+    color: #333; /* Color de texto más oscuro */
+}
